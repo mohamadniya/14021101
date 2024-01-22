@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.middel{
+    width: 100vw;
+    height: 657px;
+    background-color: #424242;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cycle{
+    width: 300px;
+    height: 300px;
+    background-color: yellow;
+    border-radius: 1.5rem;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+}
